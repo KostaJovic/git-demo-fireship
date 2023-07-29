@@ -12,7 +12,8 @@ Just working on a feature
 ``` git ac <commit-name> ```  
 to implement add the following line in to .gitconfig  
 ```ac = "commit -am"```
-
+</details>
+<details>
 <summary>add all, commit and push</summary>
 
 ``` git acp <commit-name> ```  
