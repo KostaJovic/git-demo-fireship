@@ -8,5 +8,6 @@ Just working on a feature
 ## sefull aliases
 add all and commit
 ```git ac <commit-name>```
+
 to implement add the following line in to .gitconfig
 ```ac = "commit -am"```
