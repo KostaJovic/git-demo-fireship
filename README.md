@@ -9,7 +9,7 @@ Just working on a feature
 <details>
 <summary>add all and commit</summary>
 
-``` git ac <commit-name> ```
+``` git ac <commit-name> ```  
 to implement add the following line in to .gitconfig
 ```ac = "commit -am"```
 </details>
