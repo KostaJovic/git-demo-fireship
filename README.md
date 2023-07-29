@@ -10,6 +10,12 @@ Just working on a feature
 <summary>add all and commit</summary>
 
 ``` git ac <commit-name> ```  
-to implement add the following line in to .gitconfig
+to implement add the following line in to .gitconfig  
 ```ac = "commit -am"```
+
+<summary>add all, commit and push</summary>
+
+``` git acp <commit-name> ```  
+to implement add the following line to .gitconfig  
+``` acp = "!f() { git add -A && git commit -m \"$1\" && git push; }; f" ```
 </details>
